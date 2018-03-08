@@ -1,0 +1,23 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "### Node.js and Shell commands",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelsyun/FS-NodeShell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelsyun/FS-NodeShell/issues"
+  },
+  "homepage": "https://github.com/samuelsyun/FS-NodeShell#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "request": "^2.83.0"
+  }
+}
